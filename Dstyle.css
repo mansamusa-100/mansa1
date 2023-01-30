@@ -1,0 +1,25 @@
+input{
+    border-radius: 15px;
+    border: 2px solid #3c4043;
+    font-size: 18px;
+    line-height: 1.5;
+    outline: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 5px 10px 5px 10px;
+    background-color: #303134;
+}
+body{
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: pink;
+}
+footer{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px 10px 10px 10px;
+}
